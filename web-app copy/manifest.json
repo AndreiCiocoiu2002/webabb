@@ -1,0 +1,41 @@
+{
+    "name": "My Pet Store PWA",
+    "short_name": "Petstore",
+    "icons": [
+        {
+          "src": "pictures/cart.png",
+          "sizes": "144x144",
+          "type": "image/png"
+          
+        },
+        {
+          "src": "pictures/cropped-icon-512x512.png",
+          "sizes": "512x512",
+          "type": "image/png"
+          
+        }
+      ],
+      "screenshots": [
+        {
+          "src": "pictures/background1.jpg",
+          "sizes": "1280x720",
+          "type": "image/jpeg",
+          "platform": "desktop",
+          "form_factor": "wide"
+        },
+        {
+          "src": "pictures/background.jpg", 
+          "sizes": "360x640", 
+          "type": "image/jpeg",
+          "platform": "mobile"
+        }
+    ],
+    
+      
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#260bca",
+    "theme_color": "#260bca"
+  }
+  
+
